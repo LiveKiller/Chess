@@ -1,11 +1,10 @@
 # Chess
 
-This is a chess game made in python mainly using `pygame` and `tkinter` library
+This is a chess game made in python mainly using `pygame` library
 
 # Installation requirements
 - Python 3.7+
 - `pygame`
-- `tkinter`
 # How to install?
  To install, you first need to download the github repo by either using the download as a zip button under the "Code" section or you can clone the github repo by again using the same "Code" button and clone the git repo on your local computer
 
@@ -14,5 +13,5 @@ To run and play chess, after downloading the file hed over to the project file a
 
 # Future updates:
 - In future I'll try to implement the AI feature to play chess with the bot and/or another player
-- Change the UI from old classic `tkitner` to new modern `customtkitner` and further GUI Updates
+- Change the UI to new modern `customtkitner` and further GUI Updates
 - Will find and change the chess pieces' image to a new better looking one
